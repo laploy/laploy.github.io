@@ -1,0 +1,121 @@
+<mjml>
+  <mj-head>
+    <mj-title>Hello world</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image href="https://www.facebook.com/greatfriends.biz" src="https://raw.githubusercontent.com/laploy/files/master/nesletter-october.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">สองคอร์สเปิดใหม่เดือนตุลา ฯ จากเกรทเฟรนด์</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #1 - ตุลาคม</mj-text>
+      </mj-column>
+    </mj-section>
+
+      <mj-column width="100%">
+        <mj-text font-size="12px">
+          <p>สวัสดีผท่าผู้เคยเรียนกับเกรทเฟรนด์</p>
+          <p> บางท่านอาจห่างหายกันไปนาน แต่ก็ยังมีบางท่านที่ยังติดตามผ่านเ<a class="text-link" href="https://www.facebook.com/greatfriends.biz">เพจเกรทเฟรนด์</a>กันอยู่
+ซึ่งเพจยังคงอัพเดตทั้งข่าวสารและคอร์สต่างๆ ให้ทันสมัยมาโดยสม่ำเสมอนะคะ ในเวลานี้มีคอร์สที่เพิ่งเปิดใหม่ด้วย นั่นคือ คอร์ส Essential ML.NET และ คอร์ส Essential Angular and TypeScript ค่ะ </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+	
+	
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://next.greatfriends.biz/training/course/G610" style="color: #3498DB; text-decoration: none">
+            คอร์ส Essential ML.NET
+            </a> </h3>
+          <p style="font-size: 10px">
+		  
+		  
+		  สร้างงาน Machine Learning ในแบบฉบับของนักพัฒนา .NET ให้ใช้งานได้โดยไม่จำกัดอุปกรณ์และแพลตฟอร์ม
+เหมาะสำหรับผู้ที่สนใจ หรือผู้ที่เคยผ่านการอบรมคอร์ส Microsoft Azure Machine Learning Express มาแล้ว
+		  
+		  </p>
+		  
+		  
+		  
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://next.greatfriends.biz/training/course/G610" src="https://raw.githubusercontent.com/laploy/files/master/mldotnet.png"></mj-image>
+      </mj-column>
+    </mj-section>
+	
+	
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://next.greatfriends.biz/training/course/G350" style="color: #3498DB; text-decoration: none;">
+            คอร์ส Essential Angular and TypeScript
+            </a> </h3>
+          <p style="font-size: 10px;">
+		  
+		  
+พัฒนาเว็บด้วย Angular Framework โดยใช้ภาษา TypeScript เชื่อมต่อกับ Service ของระบบอื่นๆ
+เหมาะสำหรับผู้ที่สนใจ หรือผู้ที่ผ่านการอบรมคอร์ส Advanced ASP.NET Core API and MVC มาแล้ว	  
+		  
+		  
+		  
+		  </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://next.greatfriends.biz/training/course/G350" src="https://raw.githubusercontent.com/laploy/files/master/angularlogo.png"></mj-image>
+      </mj-column>
+    </mj-section>
+	
+	    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+	
+
+
+
+    <mj-section>
+	
+	      <mj-column width="30%">
+        <mj-image width="100px" href="http://next.greatfriends.biz/" 
+		src="https://raw.githubusercontent.com/laploy/files/master/greatfriendlogo-small.jpg"></mj-image>
+      </mj-column>
+	  
+	  
+      <mj-column width="70%">
+        <mj-text font-size="10px">
+          <p> บริษัท เกรทเฟรนด์ บิซซิเนซ ดีเวลล๊อปเมนท์ จำกัด<br>
+		  35 หมู่ 3 หมู่บ้านมายเพลส วัชรพล ถนนเพิ่มสิน แขวงออเงิน เขตสายไหม กรุงเทพฯ 10220 <br>
+		  มือถือ: 081-915-7816 (อ.สุเทพ)
+		  </p>
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+	    
+
+  </mj-body>
+</mjml>
